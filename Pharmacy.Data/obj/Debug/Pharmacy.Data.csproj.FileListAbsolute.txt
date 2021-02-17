@@ -1,0 +1,14 @@
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\bin\Debug\Pharmacy.Data.dll
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\bin\Debug\Pharmacy.Data.pdb
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\obj\Debug\Pharmacy.Data.csprojAssemblyReference.cache
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\obj\Debug\Pharmacy.Data.csproj.CoreCompileInputs.cache
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\obj\Debug\Pharmacy.Data.dll
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\obj\Debug\Pharmacy.Data.pdb
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\bin\Debug\Dapper.dll
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\obj\Debug\Pharmacy.Data.csproj.CopyComplete
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\bin\Debug\EntityFramework.dll
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\obj\Debug\Pharmacy.Data.Migrations.Initial_Create.resources
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\obj\Debug\Pharmacy.Data.csproj.GenerateResource.cache
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\obj\Debug\Pharmacy.Data.Migrations.Form_OtM.resources
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy.Data\obj\Debug\Pharmacy.Data.Migrations.Drug_Virtual.resources

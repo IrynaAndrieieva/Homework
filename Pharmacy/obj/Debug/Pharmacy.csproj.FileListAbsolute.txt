@@ -1,0 +1,13 @@
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy\bin\Debug\Pharmacy.dll
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy\bin\Debug\Pharmacy.pdb
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy\bin\Debug\Pharmacy.Domain.dll
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy\bin\Debug\Pharmacy.Data.dll
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy\bin\Debug\Pharmacy.Domain.pdb
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy\bin\Debug\Pharmacy.Data.pdb
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy\obj\Debug\Pharmacy.csprojAssemblyReference.cache
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy\obj\Debug\Pharmacy.dll
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy\obj\Debug\Pharmacy.pdb
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy\bin\Debug\Dapper.dll
+E:\Learning\Программирование\Обучение. А_Level\Homework\HW25\Part_two\Pharmacy\bin\Debug\EntityFramework.dll
